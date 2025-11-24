@@ -1,4 +1,4 @@
-![My Image](./assets/card.png)
+![My Image](./assets/card.svg)
 
 <p>
   <a href="mailto:get.viveksahu@gmail.com">
