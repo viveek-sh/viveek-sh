@@ -1,5 +1,5 @@
 Hi there 👋
-![My Image](./assets/card.svg)
+![My Image](./assets/card.svg) 
 
 ## 🛠 Tech Stack
 
