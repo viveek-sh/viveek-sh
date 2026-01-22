@@ -1,4 +1,4 @@
-Hi there 👋
+Hi there 👋 
 ![My Image](./assets/card.svg) 
 
 ## 🛠 Tech Stack
